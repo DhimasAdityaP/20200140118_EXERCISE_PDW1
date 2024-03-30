@@ -1,0 +1,6 @@
+<h1 align="center">Hi 👋 Saya Dhimas Aditya Pratama_20200140118_C</h1>
+<h3 align="center">EXERCISE 1 PENGEMBANGAN DESAIN WEB YANG BERTEMAKAN WEBSITE CAT SHOP YANG MENJUALKAN MAKANAN DAN MINUMAN SAMBIL BERSANTAI DENGAN KUCING YANG ADA DI CAFE TERSEBUT</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
